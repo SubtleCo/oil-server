@@ -1,4 +1,6 @@
 # oil-server
-The Python/Django API counterpart to the Oil React app
+The Python/Django API counterpart to the Oil React app.
 
-[Client](https://github.com/SubtleCo/Oil)
+For detailed instructions, samples, and information, please visit the client repository below.
+
+### [Client](https://github.com/SubtleCo/Oil)
