@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/Users/alexmartin/.local/share/virtualenvs/server-5CqkKvgF/bin/python",
+    "python.pythonPath": "/Users/alexmartin/.local/share/virtualenvs/oil-server-atrXj9xY/bin/python",
     "python.linting.pylintEnabled": true,
     "sqltools.connections": [
         {
